@@ -46,7 +46,7 @@ Users should be able to:
 
 ## Author
 
-* Website - [www.denis-dev.com](https://www.denis-dev.com)
+* Website - [www.denis-dev.com](http://www.denis-dev.com)
 * Frontend Mentor - [@denisfelic](https://www.frontendmentor.io/profile/denisfelic)
 
  
